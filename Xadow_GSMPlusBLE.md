@@ -1,17 +1,25 @@
-#Xadow GSM+BLE
+---
+title: Xadow GSM+BLE
+category: RePhone
+bzurl: https://www.seeedstudio.com/Xadow-GSM-BLE-p-2560.html
+oldwikiname: Xadow_GSM+BLE
+prodimagename: Xadow_GSM%2BBLE_shangjiatu.JPG
+surveyurl: https://www.surveymonkey.com/r/Xadow_GSM_BLE
+sku: 102040005
+---
 
-----------
 ![](https://raw.githubusercontent.com/SeeedDocument/Xadow_GSM-BLE/master/image/Xadow_GSM%2BBLE_shangjiatu.JPG)
 
 Whether making and receiving telephone calls over a radio link using external speakers and microphone or exchanging data in short distances with Bluetooth, you can do it with Xadow GSM+BLE.
 
-As the heart of RePhone kit Create, the Xadow GSM+BLE is built around the powerful System-On-Chip (SOC) MT2502, offering a rich range of communication protocols - GSM, GPRS and Bluetooth (v4.0 and 2.1 dual mode). It supports quad-band 850/900/1800/1900MHz that covers any GSM network in the world. Just insert a 2G Nano SIM card, and then you can enchant things with cellular connectivity.  
+As the heart of RePhone kit Create, the Xadow GSM+BLE is built around the powerful System-On-Chip (SOC) MT2502, offering a rich range of communication protocols - GSM, GPRS and Bluetooth (v4.0 and 2.1 dual mode). It supports quad-band 850/900/1800/1900MHz that covers any GSM network in the world. Just insert a 2G Nano SIM card, and then you can enchant things with cellular connectivity.
 
 
-[![](https://raw.githubusercontent.com/SeeedDocument/Xadow_GSM-BLE/master/image/150px-Get_One_Now_Banner.png) ](http://www.seeedstudio.com/depot/Xadow-GSM-BLE-p-2560.html?cPath=84_120)  
+[![](https://raw.githubusercontent.com/SeeedDocument/Seeed-WiKi/master/docs/images/get_one_now.png)](http://www.seeedstudio.com/depot/Xadow-GSM-BLE-p-2560.html?cPath=84_120)  
 
 
 ##Features  
+
 - Based on the smallest commercial System-on-Chip  
 - (5.4mm x 6.2mm) currently on the market  
 - Open source and modular design  
@@ -75,7 +83,7 @@ Open **Device Manager** by clicking the **Start** button, clicking **Control Pan
 We have developed rich libraries hooking into Arduino IDE, Lua and JavaScript, with detailed example sketches to help entry-level programmers develop with RePhone modules easily and quickly.
 
 We also provide a powerful SDK based on Eclipse IDE for C/C++ developers to work with more intelligent applications.  
-[![](https://raw.githubusercontent.com/SeeedDocument/Xadow_GSM-BLE/master/image/Arduino_IDE-17.png)  ](http://www.seeedstudio.com/wiki/Arduino_IDE_for_RePhone_Kit)  
+[![](https://raw.githubusercontent.com/SeeedDocument/Xadow_GSM-BLE/master/image/Arduino_IDE-17.png)  ](http://wiki.seeed.cc/Platform/RePhone/RePhone/)  
 [![](https://raw.githubusercontent.com/SeeedDocument/Xadow_GSM-BLE/master/image/Eclipse_IDE-13.png) ](http://www.seeedstudio.com/wiki/Eclipse_IDE_for_RePhone_Kit)   
 [![](https://raw.githubusercontent.com/SeeedDocument/Xadow_GSM-BLE/master/image/Lua-14.png)](http://www.seeedstudio.com/wiki/Lua_for_RePhone#Use_Lua_Shellt)  
 [![](https://raw.githubusercontent.com/SeeedDocument/Xadow_GSM-BLE/master/image/JS-15.png) ](http://www.seeedstudio.com/wiki/JavaScript_for_RePhone) 
@@ -106,10 +114,4 @@ Check more info about the chipset MT2502:
 [- Datasheet for eagle files](https://github.com/SeeedDocument/Xadow_GSM-BLE/blob/master/resource/Datasheet_for_MT2502.rar)  
 Check out this excel for the compatibility with Xadow 1.0 modules:  
 [- Compatibility between GSM+BLE and Xadow 1.0 modules  ](https://github.com/SeeedDocument/Xadow_GSM-BLE/blob/master/resource/Compatibility_between_GSM%2BBLE_and_Xadow_1.0_modules.xlsx)
-
-##Is this page helpful  
-<iframe style="height: 600px; width: 500px; margin: 10px 0 10px;" allowTransparency="true" src="https://www.surveymonkey.com/r/GYMWXP5" frameborder="0"></iframe>
-
-
-
  
